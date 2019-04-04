@@ -1,11 +1,11 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default1.aspx](./CS/Default1.aspx) (VB: [Default1.aspx.vb](./VB/Default1.aspx.vb))
+* [Default1.aspx](./CS/Default1.aspx) (VB: [Default1.aspx](./VB/Default1.aspx))
 * [Default1.aspx.cs](./CS/Default1.aspx.cs) (VB: [Default1.aspx.vb](./VB/Default1.aspx.vb))
 * [Default2.aspx](./CS/Default2.aspx) (VB: [Default2.aspx](./VB/Default2.aspx))
-* [Default2.aspx.cs](./CS/Default2.aspx.cs) (VB: [Default2.aspx](./VB/Default2.aspx))
-* [Default3.aspx](./CS/Default3.aspx) (VB: [Default3.aspx.vb](./VB/Default3.aspx.vb))
+* [Default2.aspx.cs](./CS/Default2.aspx.cs) (VB: [Default2.aspx.vb](./VB/Default2.aspx.vb))
+* [Default3.aspx](./CS/Default3.aspx) (VB: [Default3.aspx](./VB/Default3.aspx))
 * [Default3.aspx.cs](./CS/Default3.aspx.cs) (VB: [Default3.aspx.vb](./VB/Default3.aspx.vb))
 * [MasterPage.master.cs](./CS/MasterPage.master.cs) (VB: [MasterPage.master.vb](./VB/MasterPage.master.vb))
 <!-- default file list end -->
