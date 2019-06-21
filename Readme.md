@@ -10,6 +10,9 @@
 * [MasterPage.master.cs](./CS/MasterPage.master.cs) (VB: [MasterPage.master.vb](./VB/MasterPage.master.vb))
 <!-- default file list end -->
 # Using ASPxSplitter to create web page layout
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4779/)**
+<!-- run online end -->
 
 
 <p>First, create a master page with ASPxSplitter. To achieve the needed layout, create some panes. You will also need to create nested panes in the following manner:</p>
