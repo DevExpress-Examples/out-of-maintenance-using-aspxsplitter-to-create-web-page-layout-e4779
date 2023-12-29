@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128565825/13.1.4%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E4779)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -15,9 +10,6 @@
 * [MasterPage.master.cs](./CS/MasterPage.master.cs) (VB: [MasterPage.master.vb](./VB/MasterPage.master.vb))
 <!-- default file list end -->
 # Using ASPxSplitter to create web page layout
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4779/)**
-<!-- run online end -->
 
 
 <p>First, create a master page with ASPxSplitter. To achieve the needed layout, create some panes. You will also need to create nested panes in the following manner:</p>
